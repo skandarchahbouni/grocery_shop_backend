@@ -1,6 +1,6 @@
 # Grocery Shop Application 🛒🌿
 
-A comprehensive backend service for a grocery shop application, built using express js (node js framework). The project structure includes:
+A comprehensive backend service for a grocery shop application, built using express js and mysql. The project structure includes:
 
 - **config/**: Configuration files for the application.
 - **controllers/**: Logic for handling requests related to products, orders, and customers.
